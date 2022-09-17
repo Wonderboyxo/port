@@ -1,0 +1,43 @@
+body {
+  background: #e7e7e7;
+}
+
+#buttonys {
+  background-color: black;
+  border-radius: 10px;
+}
+
+#buttonys-2 {
+  background-color: #ffffff;
+  color: black;
+  border-radius: 10px;
+}
+
+.navigation-clean-button {
+  background-color: rgba(241,242,244,0.8);
+  border-bottom-width: 1px;
+  border-bottom-color: #dfe3e7;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 20px;
+}
+
+#buttona:hover {
+  background-color: #3e8ce4 !important;
+}
+
+.doit:hover {
+  background-color: #3e8ce4 !important;
+  border-radius: 10px;
+  display: inline-block;
+}
+
